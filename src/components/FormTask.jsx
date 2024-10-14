@@ -1,11 +1,11 @@
 import React from 'react'
 
-const ToDoList = () => {
+const FormTask = () => {
   return (
     <div>
-      ToDOList
+      FormTask
     </div>
   )
 }
 
-export default ToDoList
+export default FormTask
